@@ -16,13 +16,13 @@ function App() {
     <div className="cv-container">
       <header>
         <h1>Juan Ignacio Marchetto</h1>
-        <div style={{ textAlign: 'center' }}> 
+       {/*  <div style={{ textAlign: 'center' }}> 
           <img 
-            src="https://photos.google.com/u/0/search/_cAF1QipOiHn0WCExveWMI49RnjrZEKZIJt07qUWs_juan%20ignacio%20Marchetto/photo/AF1QipOpdFUymkdkFKen7YHwZZ1c9lENyLeH5NQWJlpK?hl=es" 
+            src="../public/IMG-20220414-WA0010.jpg" 
             alt="Foto de perfil" 
             style={{ borderRadius: '50%', width: '100px', height: '100px' }} 
           />
-        </div>
+        </div> */}
         <br></br>
         <p>Chef profesional // Programador WEB Junior: HTML; CSS; JS; React //</p>
         <p>Bilingüe (Inglés/Español)</p>
