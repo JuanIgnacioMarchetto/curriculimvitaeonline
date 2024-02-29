@@ -16,7 +16,7 @@ function App() {
     <div className="cv-container">
       <header>
         <h1>Juan Ignacio Marchetto</h1>
-        <div style={{ textAlign: 'center' }}> {/* Div para centrar la imagen */}
+        <div style={{ textAlign: 'center' }}> 
           <img 
             src="url_de_tu_imagen.jpg" 
             alt="Foto de perfil" 
