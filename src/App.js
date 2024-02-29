@@ -18,7 +18,7 @@ function App() {
         <h1>Juan Ignacio Marchetto</h1>
         <div style={{ textAlign: 'center' }}> 
           <img 
-            src="url_de_tu_imagen.jpg" 
+            src="https://photos.google.com/u/0/search/_cAF1QipOiHn0WCExveWMI49RnjrZEKZIJt07qUWs_juan%20ignacio%20Marchetto/photo/AF1QipOpdFUymkdkFKen7YHwZZ1c9lENyLeH5NQWJlpK?hl=es" 
             alt="Foto de perfil" 
             style={{ borderRadius: '50%', width: '100px', height: '100px' }} 
           />
@@ -54,12 +54,12 @@ function App() {
           <p>Ayudante de cocina eventual en eventos.</p>
           <p>Realización de catering, presentación y armado de platos.</p>
         </div>
-        <div class="job">
+       {/*  <div class="job">
           <h3>Famyl Medicina Prepaga - Reparto</h3>
           <p>enero de 2018 - enero de 2021 (3 años 1 mes)</p>
           <p>Junín, Provincia de Buenos Aires, Argentina</p>
           <p>Reparto de sobres con información o facturas a pagar</p>
-        </div>
+        </div> */}
         <div class="job">
           <h3>Centro cultural Landa Sabaris - Jefe de cocina</h3>
           <p>mayo de 2018 - noviembre de 2019 (1 año 7 meses)</p>
@@ -74,13 +74,13 @@ function App() {
           <p>Jefe de cocina.</p>
           <p>Armado de menúes para cada tipo de paciente, compras de mercadería, control de stock, personal a cargo, cocina en general.</p>
         </div>
-        <div class="job">
+        {/* <div class="job">
           <h3>Club nocturno “Kuma” - Jefe de cocina</h3>
           <p>agosto de 2015 - junio de 2017 (1 año 11 meses)</p>
           <p>Buenos Aires y alrededores</p>
           <p>Jefe de cocina</p>
           <p>Compras, personal a cargo, armado de menúes, emplatado, cocina en general.</p>
-        </div>
+        </div> */}
         <div class="job">
           <h3>Club Nocturno “Liv” - Cocinero</h3>
           <p>mayo de 2013 - septiembre de 2015 (2 años 5 meses)</p>
